@@ -1,0 +1,4 @@
+cd C:\Users\DELL\Downloads\python script
+python -m venv venv
+venv\Scripts\activate
+
